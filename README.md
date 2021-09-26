@@ -6,10 +6,10 @@
     <h2 align="center"></h2>
     <blockquote align="center">“The future belongs to those who believe in the beauty of their dreams.” - Eleanor Roosevelt</blockquote>
     <p align="center">
-      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/simple-note-app">
-      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gisabernardess/simple-note-app">
-      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gisabernardess/simple-note-app">
-      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gisabernardess/simple-note-app">
+      <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Ashutosh102/Simple-note-app">
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Ashutosh102/Simple-note-app">
+      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Ashutosh102/Simple-note-app">
+      <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Ashutosh102/Simple-note-app">
     </p>
     <h2><a class="anchor" aria-hidden="true" href="#rocket-technologies">:rocket:</a> Technologies </h2>
     <ul>
@@ -24,9 +24,9 @@
     </ul>
     <h2><a class="anchor" aria-hidden="true" href="#information_source-how-to-use">:information_source:</a> How To Use </h2>
     <div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> Clone this repository</span> 
-$ git clone https://github.com/gisabernardess/simple-note-app <br/>
+$ git clone https://github.com/Ashutosh102/Simple-note-app <br/>
 <span class="pl-c"><span class="pl-c">#</span> Open index.html in your browser</span></pre></div>
     <hr>
-<p>Made with ♥ by Ashutosh :wave: <a href="https://www.linkedin.com/in/gisabernardess/" rel="nofollow">Get in touch!</a></p>
+<p>Made with ♥ by Ashutosh :wave: <a href="https://www.linkedin.com/in/ashutosh-mohanty-3464a6204" rel="nofollow">Get in touch!</a></p>
 </article>
 </div>
